@@ -1,0 +1,65 @@
+#img_slide #slider figure { 
+    position: relative;
+    width: 600%;
+    height: 250px;
+    margin: 0;
+    left: 0;
+    text-align: left;
+    font-size: 0;
+    animation: 30s slidy infinite; 
+}
+#img_slide #slider figure img{
+    max-width: 250px;
+    max-height: 300px;
+    overflow: hidden;
+    float: center;
+}
+#family_slide #slider figure{
+    height: 180px;
+}
+#family_slide #slider figure img{
+    width: 250px;
+    height: 280px;
+    overflow: hidden;
+    float: center;
+}
+#photo_table #image{
+    width: 230px;
+    height: 230px;
+}
+#photo_table #date{
+    color: rgb(102, 102, 102);
+    font-size: 12px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    text-align: center;
+    border-bottom: 1px solid palevioletred;
+}
+#photo_table{
+    border-bottom: none;
+    margin: 0 auto;
+    float: auto;
+}
+#photo_table h4 a{
+    color: rgb(123, 123, 123);
+    text-align: center;
+}
+#photo_table h4{
+    color: rgb(123, 123, 123);
+    text-align: center;
+    margin-top: 10px;
+}
+#photo_table span{
+    font-style: bold;
+    color: black;
+}
+#photo_table h4 a:hover{
+    text-decoration: underline;
+    color: palevioletred;
+}
+.sub_sections #break{
+    color: rgb(125, 123, 123);
+    padding-bottom: 30px;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 30px;
+}

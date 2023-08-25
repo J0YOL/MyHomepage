@@ -1,0 +1,47 @@
+table {
+    width: 750px;
+    height: 200px;
+    border-color: paleturquoise;
+    border-collapse: collapse;
+}
+.sub_sections #work_sub_text table #title th{
+    background-color: skyblue;
+    color: #fff;
+    width: 30%;
+    height: 70px;
+}
+.sub_contents #work_sub_text #left{
+    text-align: left;
+    font-size: 12px;
+    margin: 5px 0;
+    padding: 10px;
+    color: rgb(85, 81, 81);
+    list-style: decimal;
+}
+.sub_sections #work_sub_text table tr td{
+    font-size: 13px;
+    text-align: center;
+    color:rgb(126, 126, 126);
+    height: 150px;
+}
+
+.sub_sections #work_sub_text table tr td{
+    font-size: 13px;
+    text-align: center;
+    color:rgb(126, 126, 126)
+}
+
+.sub_sections #work_sub_text table tr td a{
+    color: #aaa;
+}
+
+.sub_sections #work_sub_text table tr td a:hover{
+    color: paleturquoise;
+}
+
+.sub_sections #work_sub_text table tr td #school_img{
+    width: 80%;
+    max-height: 200px;
+    overflow: hidden;
+    float: center;
+}

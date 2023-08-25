@@ -1,0 +1,201 @@
+
+    .sub_visual{
+        width: 100%;
+    }
+    .sub_visual img{
+        width: 100%;
+    }
+    .sub_contents{
+        width: 1000px;
+        margin: 20px auto;
+        overflow: hidden;
+    }
+    .sub_contents .left_menu{
+        width: 200px;
+        float: left;
+        margin: 0;
+        padding: 0;
+    }
+    .sub_sections .sub_header #other_color{
+        color: palevioletred;
+    }
+    .sub_contents .left_menu ul{
+        width: 100%;
+        list-style: none;
+        margin: 0;
+        padding: 0;
+    }
+    .sub_contents .left_menu h3{
+        padding: 5px 0;
+        border-bottom: 2px solid #333;
+    }
+    .sub_contents .left_menu ul li{
+        padding: 10px 0;
+        border-bottom: 1px solid #aaa;
+    }
+    .sub_contents .left_menu ul li a{
+        color: #777;
+        text-decoration: none;
+        font-size: 14px;
+    }
+    .sub_contents .sub_sections{
+        width: 750px;
+        float: right;
+    }
+    .clear{
+        clear: both;
+    }
+    .sub_contents .sub_sections .sub_header{
+        overflow: hidden;
+        padding: 0;
+        border-bottom: 1px solid #aaa;
+        margin: 10px 0 40px 0;
+    }
+    .sub_contents .sub_sections .sub_header h3{
+        float: left;
+    }
+    .sub_contents .sub_sections .sub_header ul{
+        list-style: none;
+        float: right;
+    }
+    .sub_contents .sub_sections .sub_header ul li{
+        float: left;
+        font-size: 14px;
+    }
+    .sub_contents .sub_sections article{
+        clear: both;
+        margin: 30px 0;
+        
+    }
+    .sub_contents .sub_sections article img{
+        width: 80%;
+        height: 100%;
+        margin: 10px auto;
+    }
+    .sub_contents .sub_sections #school_img{
+        width: 100%;
+        height: 180%;
+        margin: 0 auto;
+        padding: auto;
+        text-align: center;
+    }
+    .sub_contents .sub_sections #Game_img{
+        width: 100%;
+        height: 180%;
+        margin: 10px auto;
+        padding: auto;
+        text-align: center;
+        border-bottom: 2px solid paleturquoise;
+    }
+    .sub_contents .sub_sections article .subpage_title{
+        width: 50%;
+        margin: 0px auto;
+        display: block;
+    }
+    .sub_contents .sub_sections article .mythology_title{
+        width: 40%;
+    }
+    .sub_contents #sub_text #left{
+        text-align: left;
+        font-size: 12px;
+        margin: 5px 0;
+        padding: 10px;
+        color: rgb(85, 81, 81);
+        list-style: decimal;
+    }
+    .sub_contents #sub_text div{
+        padding: 40px 0;
+        border: 1px solid #ddd;
+    }
+    .sub_contents #sub_text #Game{
+        padding: 40px 0;
+        border: 1px solid paleturquoise;
+    }
+    .sub_contents #sub_text h2{
+        width: 70%;
+        margin: 5px auto;
+        text-align: center;
+        font-style: bold;
+        color: rgb(120, 117, 117);
+        font-weight: 500;
+    }
+    .sub_contents #under_text h2{
+        width: 70%;
+        margin-bottom: 5px;
+        margin-top: 25px;
+        text-align: left;
+        font-style: bold;
+        color: rgb(120, 117, 117);
+        font-weight: 500;
+    }
+    .sub_contents #under_text h3{
+        width: 100%;
+        margin-bottom: 5px;
+        margin-top: 25px;
+        text-align: center;
+        font-style: bold;
+        color: rgb(120, 117, 117);
+        font-weight: 700;
+    }
+    .sub_contents #under_text h3 span{
+        color: rgb(85, 116, 210);
+    }
+    .sub_contents #sub_text #title{
+        color: rgb(181, 181, 181);  
+        font-size: 14px;   
+    }
+    .sub_contents #under_text #title{
+        color: rgb(181, 181, 181);  
+        font-size: 12px; 
+        text-align: left;
+
+    }
+    .sub_contents #sub_text #break{
+        color: #bbb;
+        padding-bottom: 30px;
+        border-bottom: 1px solid #ccc;
+        margin-bottom: 30px;
+    }
+    .sub_contents #sub_text #other_color{
+        color: palevioletred;
+        font-weight: bold;
+    }
+    .sub_contents .sub_sections .sub_header h4{
+        color: rgb(97, 93, 93);
+    }
+    .sub_contents .sub_sections article p{
+        text-align: center;
+        font-size: 12px;
+        margin: 4px 0;
+        padding: 0;
+        color: rgb(85, 81, 81);
+    }
+    .sub_contents .sub_sections article p span{
+        color: #282828;
+        font-weight: bold;
+    }
+    .sub_contents .sub_sections article p span #red{
+        color: rgb(192, 7, 7);
+    }
+
+    .sub_contents .separator{
+        border-bottom: 1px solid #aaa;
+    }
+    .sub_contents .sub_sections .question{
+        background: #eee;
+        padding: 8px;
+    }
+    .sub_contents #address{
+        list-style: square;
+    }
+
+    .sub_contents #address{
+        list-style: square;
+    }
+    .sub_contents #address li{
+        font-size: 12px;
+        width: 100%;
+        margin: 4px 0;
+        padding: 0;
+        color: rgb(85, 81, 81);
+    }

@@ -1,0 +1,114 @@
+.sub_sections .Tour #Tour_title h2{
+    font-size: 50px;
+    text-align: left;
+    margin-left: 10px;
+    color: rgb(182, 43, 89);
+    margin: 0 auto;
+}
+
+.sub_contents .sub_sections #all_tour{
+    margin-bottom: 50px;
+}
+.sub_contents .sub_sections #all_tour #left{
+    float: left;
+
+}
+.sub_contents .sub_sections #all_tour #right{
+    float: right;
+
+}
+
+.sub_contents .sub_sections #all_tour .image{
+    position: absolute;
+    float: left;
+    width: 350px;
+    height: 200px;
+    overflow: hidden;
+    margin-top: 15px;
+}
+.sub_contents .sub_sections #all_tour .image img{
+    width: 350px; 
+}
+
+.sub_contents .sub_sections #all_tour .text{
+    margin:auto;
+    left: 23px;
+    padding-top: 220px;
+    
+    border-bottom: 1px solid #aaa;
+}
+
+#all_tour .text h5 a{
+    padding: 5px 0;
+    font-size: 15px;
+    color: rgb(80, 86, 154);
+    font-weight: bold;
+}
+
+#all_tour .text h5 a:hover{
+    text-decoration: none;
+    color: #aaa;
+}
+
+.sub_contents .sub_sections #all_tour .text .detail{
+    color: palevioletred;
+    padding: 5px 0;
+}
+.sub_contents .sub_sections #all_tour .text .detail p{
+    margin: 5px 0;
+    color: palevioletred;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.sub_contents .sub_sections #all_tour .text .button_tour{
+    border: 1px solid rgb(113, 59, 77);
+    background-color: palevioletred;
+    padding: 10px 150px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+    color: #fff;
+    margin-left: 1px;
+}
+.sub_contents .sub_sections #all_tour .text h5 a:hover{
+    text-decoration: underline;
+}
+
+.sub_sections .Tour_case{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 25px 25px / 25px 25px;
+    background-color: palevioletred;
+    overflow: hidden;
+    text-align: center;
+    float: center;
+}
+
+.sub_sections .Tour_case #Tour_title{
+    text-align: center;
+    color: white;
+    font-size: 27px;
+    margin-top: 20px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    border-bottom: 1px solid white;
+}
+
+.sub_sections .Tour_case #Tour_detail{
+    color: white;
+    margin-bottom: 10px;
+    font-size: 17px;
+    margin-top: 5px;
+    text-align: center;
+}
+
+.sub_sections .Tour_case #Tour_img_two{
+    width: 45%;
+    height: 300px;
+    float: left;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    border-radius: 25px 25px / 25px 25px;
+    margin-left: 25px;
+}
